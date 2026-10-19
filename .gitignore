@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 node_modules/
 **/node_modules/
 .env
 **/.env
 uploads/
 dist/
+=======
+node_modules/
+**/node_modules/
+.env
+**/.env
+uploads/
+dist/
+>>>>>>> 05da5431e7b294682227cd0237f6c94805defb27
 .DS_Store
